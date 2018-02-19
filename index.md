@@ -1,15 +1,5 @@
 
 # Aufgaben für Entwickler
 
-### Leichte Aufgaben
-
-
-### Tiefergehende Aufgaben
-> ### [GeoDB Übersicht](geodb/index.md)
->
-> Datenbank-Anbindung, Trennung von Logik und Design 
-
-
-> Test
-
-### Anspruchsvolle Aufgaben
+- [GeoDB](geodb/index.md)
+- [Adapter](adapter/index.md)
